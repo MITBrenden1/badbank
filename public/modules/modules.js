@@ -64,11 +64,6 @@ ui.navigation = `
             <li><a href="#default">Default</a></li>
             <li><a href="#alldata">All Data</a></li>
           </ul>
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="../navbar/">Default</a></li>
-            <li><a href="../navbar-static-top/">Static top</a></li>
-            <li class="active"><a href="./">Fixed top <span class="sr-only">(current)</span></a></li>
-          </ul>
         </div><!--/.nav-collapse -->
       </div>
     </nav>
@@ -86,14 +81,11 @@ ui.navigation = `
 
     <div class="container">
 
-      <!-- Main component for a primary marketing message or call to action -->
+      <!-- Introductory welcome message -->
       <div class="jumbotron">
-        <h1>Navbar example</h1>
-        <p>This example is a quick exercise to illustrate how the default, static and fixed to top navbar work. It includes the responsive CSS and HTML, so it also adapts to your viewport and device.</p>
-        <p>To see the difference between static and fixed top navbars, just scroll.</p>
-        <p>
-          <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">View navbar docs &raquo;</a>
-        </p>
+        <h1>Welcome to Bad Bank - where money is made easy</h1>
+        <p>Bad Bank - a new financial institution for easy money creation.</p>
+        <p>Disclaimer: This website is solely for the use for a Fire Hydrant Assignment.</p>
       </div>
 
     </div> <!-- /container -->
